@@ -243,4 +243,4 @@ confusionMatrix(rf.test,
                 test_data$state,
                 positive="successful",
                 mode="prec_recall")
-save.image("Final_Group8.RData")
+
